@@ -160,9 +160,4 @@ Movie Page
   <img src="https://github.com/georgesimos/readme-assets/blob/master/cinema-plus/calendar.png" />
 </details>
 
-
-
-License
-----
-
-MIT
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romit5075)
